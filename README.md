@@ -161,7 +161,10 @@ venv\Scripts\activate     # Windows
 pip install -r requirements.txt
 ```
 
-### 2. 运行程序
+### 2. 配置文件
+将`.evn_example`改为`.env`，并填写相关配置信息。
+
+### 3. 运行程序
 ```bash
 python gui_app.py
 ```
